@@ -29,7 +29,7 @@ export function Player() {
                         <img src="/play-previous.svg" alt="Previous"/>
                     </button>
                     <button type="button" className={styles.playButton}>
-                        <img src="/shuffle.svg" alt="Play"/>
+                        <img src="/play.svg" alt="Play"/>
                     </button>
                     <button type="button">
                         <img src="/play-next.svg" alt="Next"/>
