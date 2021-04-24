@@ -8,7 +8,7 @@ import { api } from '../../services/api';
 import { format, parseISO } from 'date-fns';
 import ptBR from 'date-fns/locale/pt-BR';
 
-import { convertDurationToTimeString } from '../../utils/convertDurationToTimeString';
+import convertDurationToTimeString from '../../utils/convertDurationToTimeString';
 
 import styles from './episode.module.scss'
 import { usePlayer } from '../../contexts/playerContext';
