@@ -55,8 +55,7 @@ This project was made using the follow technologies:
 
 # :rocket: Features
 
-* Pomodoro timer.
-* Help to get up of chair and make some exercise.
+* A Podcast List from listen
 
 # :construction_worker: How to run
 ```bash
